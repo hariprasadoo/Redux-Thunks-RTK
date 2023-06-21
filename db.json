@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Darlene Sporer",
+      "email": "Nikko_Oberbrunner53@yahoo.com",
+      "password": "3rTxN1o1dAqUrS7",
+      "id": 1
+    },
+    {
+      "name": "Juana Rath",
+      "email": "Luis89@yahoo.com",
+      "password": "Wmdd9dPFGQkCRQB",
+      "id": 2
+    },
+    {
+      "name": "Bethany Gerlach",
+      "email": "Adrianna_Batz@hotmail.com",
+      "password": "fOJoLW1LqTNNqQV",
+      "id": 3
+    },
+    {
+      "name": "Inez Wisoky",
+      "email": "Cleve.Hudson0@hotmail.com",
+      "password": "ookCsA7SK2yxyqV",
+      "id": 4
+    },
+    {
+      "name": "Violet Hickle",
+      "email": "Felicity.Johns52@yahoo.com",
+      "password": "pv0v8rqxozUBPCa",
+      "id": 5
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
