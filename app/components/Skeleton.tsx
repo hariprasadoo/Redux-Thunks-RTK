@@ -2,7 +2,7 @@ import classNames from "classnames";
 
 interface ISkeleton {
     times: number;
-    className: any
+    className?: any
 }
 const Skeleton: React.FC<ISkeleton> = ({ times, className }) => {
     const outerClassNames = classNames(

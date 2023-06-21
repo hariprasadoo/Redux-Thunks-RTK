@@ -1,36 +1,34 @@
 {
   "users": [
     {
-      "name": "Darlene Sporer",
-      "email": "Nikko_Oberbrunner53@yahoo.com",
-      "password": "3rTxN1o1dAqUrS7",
+      "name": "Nathaniel Gerlach",
+      "email": "Ima.Boyle@yahoo.com",
+      "password": "te1U9gnP0fhlJb4",
       "id": 1
     },
     {
-      "name": "Juana Rath",
-      "email": "Luis89@yahoo.com",
-      "password": "Wmdd9dPFGQkCRQB",
+      "name": "Patrick Lakin",
+      "email": "Freida_Zieme92@yahoo.com",
+      "password": "R8SrKbI9FKmIFHj",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Tasty Wooden Bike",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Licensed Plastic Table",
       "id": 2
     },
     {
-      "name": "Bethany Gerlach",
-      "email": "Adrianna_Batz@hotmail.com",
-      "password": "fOJoLW1LqTNNqQV",
+      "userId": 1,
+      "title": "Small Soft Shirt",
       "id": 3
-    },
-    {
-      "name": "Inez Wisoky",
-      "email": "Cleve.Hudson0@hotmail.com",
-      "password": "ookCsA7SK2yxyqV",
-      "id": 4
-    },
-    {
-      "name": "Violet Hickle",
-      "email": "Felicity.Johns52@yahoo.com",
-      "password": "pv0v8rqxozUBPCa",
-      "id": 5
     }
   ],
-  "albums": [],
   "photos": []
 }
