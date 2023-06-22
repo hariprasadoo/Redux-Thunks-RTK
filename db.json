@@ -1,34 +1,18 @@
 {
   "users": [
     {
-      "name": "Nathaniel Gerlach",
-      "email": "Ima.Boyle@yahoo.com",
-      "password": "te1U9gnP0fhlJb4",
+      "name": "Kim Strosin",
+      "email": "Reina_Bailey@gmail.com",
+      "password": "eDty_rumwreA5GC",
       "id": 1
     },
     {
-      "name": "Patrick Lakin",
-      "email": "Freida_Zieme92@yahoo.com",
-      "password": "R8SrKbI9FKmIFHj",
+      "name": "Mr. David Haag-Marvin PhD",
+      "email": "Dallas.Batz@gmail.com",
+      "password": "kBB4LyTLgz062v6",
       "id": 2
     }
   ],
-  "albums": [
-    {
-      "userId": 1,
-      "title": "Tasty Wooden Bike",
-      "id": 1
-    },
-    {
-      "userId": 2,
-      "title": "Licensed Plastic Table",
-      "id": 2
-    },
-    {
-      "userId": 1,
-      "title": "Small Soft Shirt",
-      "id": 3
-    }
-  ],
+  "albums": [],
   "photos": []
 }
