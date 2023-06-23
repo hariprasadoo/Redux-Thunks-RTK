@@ -2,6 +2,7 @@ import Button from "./Button";
 import ExpandablePanel from "./ExpandablePanel";
 import { GoTrashcan } from "react-icons/go";
 import { useRemoveAlbumMutation } from "../redux/store";
+import PhotoList from "./PhotoList";
 
 function AlbumListItem({album}: any) {
     const [removeAlbum, result] = useRemoveAlbumMutation();
@@ -13,7 +14,7 @@ function AlbumListItem({album}: any) {
         {album.title}
     </div>
     return <ExpandablePanel key={album.id} header={header}>
-      List of photos in the album.
+      <PhotoList album={album}/>
     </ExpandablePanel>
 }
 

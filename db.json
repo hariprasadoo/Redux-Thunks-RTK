@@ -1,18 +1,95 @@
 {
   "users": [
     {
-      "name": "Kim Strosin",
-      "email": "Reina_Bailey@gmail.com",
-      "password": "eDty_rumwreA5GC",
+      "name": "Doris Deckow",
+      "email": "Irwin.Quitzon@hotmail.com",
+      "password": "BT9FNV5brA2y4WW",
       "id": 1
     },
     {
-      "name": "Mr. David Haag-Marvin PhD",
-      "email": "Dallas.Batz@gmail.com",
-      "password": "kBB4LyTLgz062v6",
+      "name": "Mr. Donald Schowalter",
+      "email": "Torrance.Skiles@gmail.com",
+      "password": "MEN1G6tNZl3zgef",
       "id": 2
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Tasty Steel Pizza",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Unbranded Cotton Sausages",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Fresh Bike",
+      "id": 3
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/nature?lock=4657309844242432",
+      "id": 1
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/nature?lock=4542263904436224",
+      "id": 2
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/nature?lock=4328997603246080",
+      "id": 3
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/nature?lock=3551327586091008",
+      "id": 4
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/nature?lock=5744109018939392",
+      "id": 5
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/nature?lock=4699921429037056",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/nature?lock=6122694659538944",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/nature?lock=5310194982584320",
+      "id": 8
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/nature?lock=2889262150189056",
+      "id": 9
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/nature?lock=2720203465031680",
+      "id": 10
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/nature?lock=3593775563669504",
+      "id": 11
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/nature?lock=5631941072125952",
+      "id": 12
+    }
+  ]
 }

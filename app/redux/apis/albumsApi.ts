@@ -18,6 +18,7 @@ const albumsApi = createApi({
       return fetch(...args);
     },//
   }),
+  tagTypes: ['Album', 'UsersAlbums'],
   endpoints(builder) {
     return {
       removeAlbum: builder.mutation({
@@ -68,5 +69,5 @@ const albumsApi = createApi({
   },
 });
 
-export const { useFetchAlbumsQuery, useAddAlbumMutation, useRemoveAlbumMutation} = albumsApi;
+export const { useFetchAlbumsQuery, useAddAlbumMutation, useRemoveAlbumMutation}:any = albumsApi;
 export {albumsApi};
